@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a French highschooler in my last year. <br>Heading for University of Montreal in 2023 scholar year.
+I'm a French highschooler in my last year. <br>Heading for University of Montreal for 2023 scholar year.
 
 
 # 💻 Tech Stack:
