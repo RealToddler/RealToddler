@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a French IT student in second year @ EPITA
+I am a French IT student my third year @ EPITA
 
 
 ## 🌐 Socials:
